@@ -1,0 +1,14 @@
+/* Optional styling */
+body{ 
+    font-family: Arial, sans-serif; margin: 2em; 
+}
+#output{ 
+    margin-bottom: 1em; 
+}
+button{ 
+    margin-bottom: 1em; 
+}
+
+.highlight{
+  background-color: yellow;
+}
